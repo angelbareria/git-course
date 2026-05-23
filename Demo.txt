@@ -1,0 +1,2 @@
+This is a demo text file
+This is to verify if the git is connected properly
